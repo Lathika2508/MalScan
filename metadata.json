@@ -1,0 +1,5 @@
+{
+  "name": "MalScan - Safe File Reconstruction System",
+  "description": "A zero-trust malware analysis tool that inspects file content, integrates with VirusTotal, and reconstructs files safely by removing malicious segments while preserving original data.",
+  "requestFramePermissions": []
+}
